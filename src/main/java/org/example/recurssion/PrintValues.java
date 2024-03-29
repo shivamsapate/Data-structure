@@ -1,8 +1,8 @@
 package org.example.recurssion;
 
-public class printValues {
+public class PrintValues {
     public static void main(String[] args) {
-        printValues obj = new printValues();
+        PrintValues obj = new PrintValues();
         obj.printIncValues(5);
     }
 

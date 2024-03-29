@@ -2,7 +2,7 @@ package org.example.recurssion;
 
 import java.util.Scanner;
 
-public class printZigZag {
+public class PrintZigZag {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

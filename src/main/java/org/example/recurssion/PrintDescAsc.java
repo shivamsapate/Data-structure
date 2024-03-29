@@ -2,11 +2,11 @@ package org.example.recurssion;
 
 import java.util.Scanner;
 
-public class printDescAsc {
+public class PrintDescAsc {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int input = sc.nextInt();
-        printDescAsc obj = new printDescAsc();
+        PrintDescAsc obj = new PrintDescAsc();
         obj.pdi(5);
     }
 
